@@ -3,5 +3,4 @@ flask-cors
 scikit-learn
 pandas
 numpy
-pickle5
 gunicorn
